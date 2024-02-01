@@ -17,7 +17,7 @@ Follow/Unfollow: Users can follow and unfollow other users to stay updated with 
 
 Real-time Updates: Firebase Realtime Database is employed to provide real-time updates on likes, comments, and new posts.
 
-## Setup Instructions
+# Setup Instructions
 # Flutter Installation:
 
 Make sure you have Flutter installed. If not, follow the official Flutter installation guide.
@@ -27,7 +27,7 @@ Create a new project on the Firebase Console.
 Set up Firebase Authentication and Firebase Storage in the Firebase project.
 Configure Flutter Project:
 
-Clone this repository: git clone https://github.com/your-username/instagram-clone.git.
+Clone this repository: git clone https://github.com/Mr-Coder-01/instagram-clone.git.
 Navigate to the project directory: cd instagram-clone.
 Open the lib/config/firebase_config.dart file and replace the Firebase configuration with your own.
 
@@ -35,4 +35,8 @@ Open the lib/config/firebase_config.dart file and replace the Firebase configura
 
 Connect your device or start an emulator.
 Run the app: flutter run.
+
+# Acknowledgments
+This project was inspired by the functionality and design of Instagram.
+Thanks to the Flutter and Firebase communities for their valuable resources and documentation.
 
